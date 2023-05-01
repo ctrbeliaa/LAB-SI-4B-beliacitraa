@@ -212,7 +212,7 @@
   margin-top:10px;
   }  
   </style>
-  <title>MY PORTOFOLIO</title>
+  <title>Belia's PORTOFOLIO</title>
 </head>
   <body>
 	<header class="header">

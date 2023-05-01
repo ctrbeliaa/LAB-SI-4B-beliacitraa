@@ -310,7 +310,7 @@
     </table>
     <br>
     <a><b>PENGALAMAN ORGANISASI</b></a>
-    <p>Berikut ini adalah pengalaman organisasi saya :</p>
+    <p>Berikut ini adalah pengalaman organisasi saya</p>
   <table align="center" class="tabel2">
     Ekstrakulikuler Seni Tari (2015-2018)
     <br>
